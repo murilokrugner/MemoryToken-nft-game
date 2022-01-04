@@ -1,0 +1,7 @@
+account: 0x358d3C1c2fb7eB698adf0C1f37c2B3338A91465C
+
+2_memory_token.js: 0x375724cc4A32F2da44e988da945A0a5DdF10C236
+
+1_initial_migration.js: 0x33B22641CEF7C9099F4953f595FF0CF53dF44D9f
+
+https://remix.ethereum.org/
